@@ -1,0 +1,26 @@
+{
+	"name": "sinc",
+	"version": "0.0.0",
+	"license": "MIT",
+	"bin": "./build/cli.js",
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"dev": "pastel dev",
+		"build": "pastel build",
+		"prepare": "pastel build"
+	},
+	"files": [
+		"build"
+	],
+	"dependencies": {
+		"@pheonixcoder/ink-confirm-input": "^1.0.3",
+		"aws-sdk": "^2.489.0",
+		"ink": "^2.3.0",
+		"ink-box": "^1.0.0",
+		"pastel": "^1.0.3",
+		"prop-types": "^15.7.2",
+		"react": "^16.8.6"
+	}
+}
