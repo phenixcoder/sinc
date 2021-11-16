@@ -16,7 +16,7 @@
 	],
 	"dependencies": {
 		"@pheonixcoder/ink-confirm-input": "^1.0.3",
-		"aws-sdk": "^2.489.0",
+		"aws-sdk": "^2.814.0",
 		"ink": "^2.3.0",
 		"ink-box": "^1.0.0",
 		"pastel": "^1.0.3",
